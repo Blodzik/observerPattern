@@ -1,0 +1,1 @@
+This repository contains a collection of three mini-projects built to demonstrate the Observer Design Pattern. The primary focus of these projects is to practice Loose Coupling, "Programming to an Interface," and building scalable, event-driven architectures in Java.
